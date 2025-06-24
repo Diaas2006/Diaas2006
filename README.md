@@ -1,46 +1,37 @@
-<h1 align="center">Olá! Me chamo Igor</h1>
+<h1 align="center">👋 Olá! Me chamo Igor</h1>
 <p align="center">
-  Estudante de Engenharia de Software | Entusiasta de tecnologia
+  🎓 Estudante de Engenharia de Software | 💻 Entusiasta de Tecnologia
 </p>
-
----
 
 ## 👨‍💻 Sobre mim
+Sou estudante de **Engenharia de Software**, com foco em:
 
-Atualmente, estou cursando **Engenharia de Software**, aprofundando meus conhecimentos em **lógica de programação**, **desenvolvimento de software** e **arquitetura de sistemas**.
+- Lógica de programação  
+- Desenvolvimento de software  
+- Arquitetura de sistemas  
 
-**Tenho experiência acadêmica**.
+Busco sempre evoluir como desenvolvedor e acompanhar as tendências do mercado.
 
-Meu foco é:
-- Desenvolver soluções inovadoras
-- Evoluir constantemente como desenvolvedor
-- Acompanhar tendências do mercado de tecnologia
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
+## 🚀 Tecnologias
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="35"/>
 </p>
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diaas2006&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-</div>
-
----
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diaas2006&show_icons=true&theme=tokyonight" width="400"/>
+</p>
 
 ## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/diaas/)
-- 💌 dev.diasx@gmail.com
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/diaas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.diasx@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
