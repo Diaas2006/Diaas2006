@@ -1,31 +1,47 @@
-<h1 align="center">👋 Olá! Me chamo Igor</h1>
+## 👨‍💻 Sobre Mim
+
+Sou **Igor Dias**, estudante de **Engenharia de Software** e desenvolvedor em formação, apaixonado por tecnologia e pela construção de soluções que gerem impacto real.
+
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento **Java**, **JavaScript** e **Node.js**, buscando evoluir constantemente através de projetos práticos, estudos e desafios que fortaleçam minha base em Engenharia de Software.
+
+Acredito que uma boa fundação em lógica, arquitetura e boas práticas é essencial para criar aplicações robustas, escaláveis e de qualidade.
+
+- ☕ **Backend:** Java, Node.js, Programação Orientada a Objetos (POO) e Estruturas de Dados.
+- 🌐 **Frontend:** JavaScript, interfaces dinâmicas e integração Full Stack.
+- 🔧 **Boas Práticas:** Clean Code, Git Flow, versionamento com Git e aprendizado contínuo.
+- 🚀 **Objetivo:** Evoluir como desenvolvedor Full Stack e contribuir para projetos inovadores.
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  🎓 Engenheiro de Software | 💻 Entusiasta de Tecnologia e CyberSec
+  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,git,github,linux,vscode" />
 </p>
 
-## 👨‍💻 Sobre mim
-   Busco sempre evoluir como desenvolvedor e acompanhar as tendências do mercado.
+## 🔥 Foco Atual
 
-## 🚀 Tecnologias
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="35"/>
-</p>
+| Área de Atuação | Status e Iniciativas |
+|----------------|---------------------|
+| ☕ Java & Backend Development | Aprimorando conceitos de POO, APIs REST e Estruturas de Dados. |
+| 🌐 Full Stack (JavaScript & Node.js) | Desenvolvendo aplicações completas do frontend ao backend. |
+| 🏗️ Engenharia de Software | Aplicando conceitos de arquitetura, modelagem e boas práticas. |
+| 🐧 Ambiente Linux | Aprimorando produtividade e automação via terminal. |
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diaas2006&show_icons=true&theme=tokyonight" width="400"/>
-</p>
+# Igor Dias
 
-## 📫 Contato
-<p align="left">
-  <a href="https://www.linkedin.com/in/diaas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+### Software Developer | Java, JavaScript & Node.js Full Stack
+
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:dev.diasx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <img src="https://img.shields.io/badge/Status-Learning-bluegrey?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Developing%20&%20Building-32CD32?style=for-the-badge"/>
 </p>
