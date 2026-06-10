@@ -1,16 +1,10 @@
 <h1 align="center">👋 Olá! Me chamo Igor</h1>
 <p align="center">
-  🎓 Estudante de Engenharia de Software | 💻 Entusiasta de Tecnologia
+  🎓 Engenheiro de Software | 💻 Entusiasta de Tecnologia e CyberSec
 </p>
 
 ## 👨‍💻 Sobre mim
-Sou estudante de **Engenharia de Software**, com foco em:
-
-- Lógica de programação  
-- Desenvolvimento de software  
-- Arquitetura de sistemas  
-
-Busco sempre evoluir como desenvolvedor e acompanhar as tendências do mercado.
+   Busco sempre evoluir como desenvolvedor e acompanhar as tendências do mercado.
 
 ## 🚀 Tecnologias
 <p align="left">
