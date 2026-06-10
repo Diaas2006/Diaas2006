@@ -15,8 +15,8 @@ Acredito que uma boa fundação em lógica, arquitetura e boas práticas é esse
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,git,github,linux,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html5,css3,git,github,linux,vscode,mysql" />
 </p>
 
 ## 🔥 Foco Atual
@@ -28,10 +28,6 @@ Acredito que uma boa fundação em lógica, arquitetura e boas práticas é esse
 | 🏗️ Engenharia de Software | Aplicando conceitos de arquitetura, modelagem e boas práticas. |
 | 🐧 Ambiente Linux | Aprimorando produtividade e automação via terminal. |
 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html5,css3,git,github,linux,vscode,mysql" />
-</p>
 
 <p align="center">
   <a href="SEU_LINKEDIN">
