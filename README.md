@@ -30,7 +30,7 @@ Acredito que uma boa fundação em lógica, arquitetura e boas práticas é esse
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html,css,git,github,linux,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html5,css3,git,github,linux,vscode,mysql" />
 </p>
 
 <p align="center">
