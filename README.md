@@ -28,9 +28,10 @@ Acredito que uma boa fundação em lógica, arquitetura e boas práticas é esse
 | 🏗️ Engenharia de Software | Aplicando conceitos de arquitetura, modelagem e boas práticas. |
 | 🐧 Ambiente Linux | Aprimorando produtividade e automação via terminal. |
 
-# Igor Dias
 
-### Software Developer | Java, JavaScript & Node.js Full Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html,css,git,github,linux,vscode,mysql" />
+</p>
 
 <p align="center">
   <a href="SEU_LINKEDIN">
