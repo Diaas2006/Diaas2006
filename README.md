@@ -29,7 +29,7 @@ Acredito que uma boa fundação em lógica, arquitetura e boas práticas é esse
 | 🐧 Ambiente Linux | Aprimorando produtividade e automação via terminal. |
 
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html5,css3,git,github,linux,vscode,mysql" />
 </p>
 
