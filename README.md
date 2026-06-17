@@ -2,7 +2,7 @@
 
 # 👨‍💻 Igor Dias
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=999999&color=00C2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer" />
 
 </div>
 
