@@ -2,23 +2,23 @@
 
 # 👨‍💻 Igor Dias
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=99999&color=00C2FF&center=true&vCenter=true&width=500&lines=Software+Developer+|+Full-Stack" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou **Igor Dias**, estudante de **Engenharia de Software** e desenvolvedor em formação.
+I’m Igor Dias, a Software Engineering student and aspiring software developer passionate about technology and building impactful solutions.
 
-Atualmente estou focado em:
+Currently, I am focused on:
 
-- ☕ Desenvolvimento Backend com Java e Node.js
-- 🌐 Desenvolvimento Full Stack com JavaScript
-- 🏗️ Engenharia de Software e Arquitetura
-- 🔧 Clean Code, Git Flow e Boas Práticas
-- 🚀 Construção de aplicações escaláveis
+- ☕ Backend Development with Java and Node.js
+- 🌐 Full-Stack Development with JavaScript
+- 🏗️ Software Engineering and Software Architecture
+- 🔧 Clean Code, Git Flow, and Best Practices
+- 🚀 Building scalable applications
 
 ---
 
@@ -32,7 +32,7 @@ Atualmente estou focado em:
 
 ---
 
-## 💼 Competências
+## 💼 Skills
 
 ### Front-end
 
@@ -47,12 +47,12 @@ Atualmente estou focado em:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-00ACC1?style=for-the-badge)
 
-### Banco de Dados
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -60,18 +60,7 @@ Atualmente estou focado em:
 
 ---
 
-## 🔥 Foco Atual
-
-| Área | Objetivo |
-|--------|----------|
-| ☕ Java Backend | APIs REST, POO e Estruturas de Dados |
-| 🌐 Full Stack | Aplicações completas com JS e Node.js |
-| 🏗️ Engenharia de Software | Arquitetura e boas práticas |
-| 🐧 Linux | Produtividade e automação |
-
----
-
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
