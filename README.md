@@ -1,40 +1,88 @@
+<div align="center">
+
+# 👨‍💻 Igor Dias
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full-Stack;Estudante+de+Engenharia+de+Software;Back-end+Java+e+Node.js;JavaScript+Developer;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" />
+
+### 🚀 Transformando ideias em soluções através da tecnologia
+
+</div>
+
+---
+
 ## 👨‍💻 Sobre Mim
 
-Sou **Igor Dias**, estudante de **Engenharia de Software** e desenvolvedor em formação, apaixonado por tecnologia e pela construção de soluções que gerem impacto real.
+Sou **Igor Dias**, estudante de **Engenharia de Software** e desenvolvedor em formação.
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento **Java**, **JavaScript** e **Node.js**, buscando evoluir constantemente através de projetos práticos, estudos e desafios que fortaleçam minha base em Engenharia de Software.
+Atualmente estou focado em:
 
-Acredito que uma boa fundação em lógica, arquitetura e boas práticas é essencial para criar aplicações robustas, escaláveis e de qualidade.
-
-- ☕ **Backend:** Java, Node.js, Programação Orientada a Objetos (POO) e Estruturas de Dados.
-- 🌐 **Frontend:** JavaScript, interfaces dinâmicas e integração Full Stack.
-- 🔧 **Boas Práticas:** Clean Code, Git Flow, versionamento com Git e aprendizado contínuo.
-- 🚀 **Objetivo:** Evoluir como desenvolvedor Full Stack e contribuir para projetos inovadores.
+- ☕ Desenvolvimento Backend com Java e Node.js
+- 🌐 Desenvolvimento Full Stack com JavaScript
+- 🏗️ Engenharia de Software e Arquitetura
+- 🔧 Clean Code, Git Flow e Boas Práticas
+- 🚀 Construção de aplicações escaláveis
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html,css,git,github,linux,vscode,mysql" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html,css,mongodb,mysql,git,github,linux,vscode" />
+
+</div>
+
+---
+
+## 💼 Competências
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Back-end
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00ACC1?style=for-the-badge)
+
+### Banco de Dados
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 ## 🔥 Foco Atual
 
-| Área de Atuação | Status e Iniciativas |
-|----------------|---------------------|
-| ☕ Java & Backend Development | Aprimorando conceitos de POO, APIs REST e Estruturas de Dados. |
-| 🌐 Full Stack (JavaScript & Node.js) | Desenvolvendo aplicações completas do frontend ao backend. |
-| 🏗️ Engenharia de Software | Aplicando conceitos de arquitetura, modelagem e boas práticas. |
-| 🐧 Ambiente Linux | Aprimorando produtividade e automação via terminal. |
+| Área | Objetivo |
+|--------|----------|
+| ☕ Java Backend | APIs REST, POO e Estruturas de Dados |
+| 🌐 Full Stack | Aplicações completas com JS e Node.js |
+| 🏗️ Engenharia de Software | Arquitetura e boas práticas |
+| 🐧 Linux | Produtividade e automação |
 
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/diaas">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+## 📫 Contato
 
-  <a href="mailto:dev.diasx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/diaas">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dev.diasx@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
