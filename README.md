@@ -2,9 +2,7 @@
 
 # 👨‍💻 Igor Dias
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full-Stack;Estudante+de+Engenharia+de+Software;Back-end+Java+e+Node.js;JavaScript+Developer;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" />
-
-### 🚀 Transformando ideias em soluções através da tecnologia
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=999999&color=00C2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer" />
 
 </div>
 
